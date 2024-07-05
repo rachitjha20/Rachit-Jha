@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello! I'm Rachit Jha, an enthusiastic and driven aspiring data scientist with a passion for uncovering insights and telling stories through data. With a strong foundation in mathematics and statistics, coupled with hands-on experience in data analysis and machine learning, I am dedicated to leveraging data to solve complex problems and drive informed decision-making.
 
-<img src='https://digitalogy.co/blog/wp-content/uploads/2019/06/Hiring-Data-Scientists.gif' align="right" style="height: 400px;"/>
+<img src='https://github.com/rachitjha20/rachitjha20/blob/main/GIF/gears-graph.gif' align="right" style="height: 400px;"/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rachit-jha-994964149) 
